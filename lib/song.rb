@@ -6,7 +6,4 @@ def count
 end
 
 end
-Song.count
-Song.artists
-Song. genre
-Song.
+
