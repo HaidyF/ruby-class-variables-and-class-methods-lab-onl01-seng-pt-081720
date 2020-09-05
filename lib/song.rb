@@ -4,9 +4,9 @@ class Song
     @name= name
     @artist= artist
     @genre= genre
+  end
 
-def count
-  self.count
-end
-
+  def count
+    self.count
+  end
 end
