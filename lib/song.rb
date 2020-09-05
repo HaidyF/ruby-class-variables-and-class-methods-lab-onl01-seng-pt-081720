@@ -18,5 +18,14 @@ def self.count
   @@song_count
 end
 
+def self.artists
+  @@artists
+end
+
+def self.genres
+  @@genres
+end
+
+
 
 end
