@@ -27,3 +27,7 @@ attr_accessor :name, :artist, :genre
   end
 
 end
+
+Song.count
+Song.artists
+Song.genres
