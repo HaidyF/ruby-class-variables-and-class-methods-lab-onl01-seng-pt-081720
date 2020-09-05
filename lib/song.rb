@@ -1,4 +1,4 @@
-class Song =(name, artist, genre)
+class Song= (name, artist, genre)
 
 def count
   self.count
