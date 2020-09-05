@@ -1,5 +1,4 @@
-class Song
-attr_accessor :name, :artist, :genre
+class Song (name, artist, genre)
 
 def count
   self.count
