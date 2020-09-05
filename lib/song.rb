@@ -1,10 +1,15 @@
 class Song
 
-  def song= (name, artist, genre)
+  def songs= (name, artist, genre)
     @name= name
     @artist= artist
     @genre= genre
   end
+
+  def songs
+    @songs
+  end
+
 
   def count
     self.count
