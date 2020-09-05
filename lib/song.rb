@@ -15,8 +15,8 @@ attr_accessor :name, :artist, :genre
   end
 
   def self.count
-      @@song_count.uniq
-    end
+    @@song_count
+  end
 
   def self.artists
     @@artists.uniq
