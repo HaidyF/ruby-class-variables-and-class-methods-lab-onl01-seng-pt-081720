@@ -1,17 +1,8 @@
 class Song
+attr_accessor :name, :artist, :genre
 
-  def songs= (name, artist, genre)
-    @name= name
-    @artist= artist
-    @genre= genre
-  end
+def count
+  self.count
+end
 
-  def songs
-    @songs
-  end
-
-
-  def count
-    self.count
-  end
 end
